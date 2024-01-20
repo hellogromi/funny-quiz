@@ -18,7 +18,7 @@ if answer == "1":
     else:
         print("You haven't complited the quest")
         if a == 2:
-            print("How much is 37 + 15?)
+            print("How much is 37 + 15?")
             print("1) 52")
             print("2) 42")
             a = int(input())
