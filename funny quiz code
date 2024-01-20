@@ -14,23 +14,23 @@ if answer == "1":
         print("When the Chernobyl disaster took plase?")
         print("1) 1990")
         print("2) 1986")
-        a = int(input())
+        b = int(input())
     else:
         print("You haven't complited the quest")
-        if a == 2:
+        if b == 2:
             print("How much is 37 + 15?")
             print("1) 52")
             print("2) 42")
-            a = int(input())
+            c = int(input())
         else:
             print("You haven't complited the quest")
-            if a == 1:
+            if c == 1:
                   print("Guess the puzzle:")
                   print("♕ vi russia")
                   print("1) Coronavirus")
                   print("2) Corova")
-                  a = int(input())
+                  d = int(input())
             else:
                 print("You haven't complited the quest")
-                if a == 1:
+                if d == 1:
                       print("You' complited the quest")
