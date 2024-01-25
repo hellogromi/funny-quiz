@@ -17,20 +17,20 @@ if answer == "1":
         b = int(input())
     else:
         print("You haven't complited the quest")
-        if b == 2:
-            print("How much is 37 + 15?")
-            print("1) 52")
-            print("2) 42")
-            c = int(input())
-        else:
-            print("You haven't complited the quest")
-            if c == 1:
-                  print("Guess the puzzle:")
-                  print("♕ vi russia")
-                  print("1) Coronavirus")
-                  print("2) Corova")
-                  d = int(input())
+            if b == 2:
+                print("How much is 37 + 15?")
+                print("1) 52")
+                print("2) 42")
+                c = int(input())
             else:
                 print("You haven't complited the quest")
-                if d == 1:
-                      print("You' complited the quest")
+                    if c == 1:
+                          print("Guess the puzzle:")
+                          print("♕ vi russia")
+                          print("1) Coronavirus")
+                          print("2) Corova")
+                          d = int(input())
+                    else:
+                        print("You haven't complited the quest")
+                            if d == 1:
+                                  print("You' complited the quest")
