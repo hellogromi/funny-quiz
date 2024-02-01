@@ -1,4 +1,4 @@
-print("Hello, a funny quest welcomes you, choose numbers and try to complete the quest.")
+rint("Hello, a funny quest welcomes you, choose numbers and try to complete the quest.")
 print("How are you?")
 print("1) Bad")
 print("2) it's all right")
