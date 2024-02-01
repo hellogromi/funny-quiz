@@ -14,7 +14,7 @@ if answer == 1:
         print("When the Chernobyl disaster took plase?")
         print("1) 1990")
         print("2) 1986")
-        b = int(input())
+        b = int(input()
         if b == 2:
                 print("How much is 37 + 15?")
                 print("1) 52")
